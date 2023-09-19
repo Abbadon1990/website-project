@@ -1,3 +1,10 @@
 body {
-    background: red;
+    background: #3AAFA9;
+    text-decoration-color: #17252A;
+}
+#header {
+    color: #FEFFFF;
+}
+* {
+    text-decoration-color: #17252A;
 }
